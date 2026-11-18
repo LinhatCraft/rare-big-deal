@@ -419,6 +419,7 @@ Free & open-source.
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📝 | [Smolpad](https://smolpad.com/) | Markdown notes for Mac, iPhone, iPad and Apple Watch, stored as plain .md files in your own cloud storage. | **50% OFF** Pro Lifetime ($29.99 → $14.99) with App Store offer code **BLACKFRIDAY** | 2026-12-01 |
 | ✍️ | [Refine](https://refine.sh) | Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. | **35% OFF** one-time license, no code needed, applied at checkout | 2026-11-30 |
+| 🧱 | [Craft](https://www.craft.do/pricing?ref=rarebigdeal) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
 
 
 ### Menu Bar & More
@@ -491,6 +492,7 @@ Free & open-source.
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock ($59.99 → $39.99), no code needed, 7-day free trial. Starts on 2026-11-27 | 2026-12-07 |
 | 📕 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown entries, photos, places and moods, synced through iCloud. | **50% OFF** Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99, no code needed. Starts on 2026-11-27 | 2026-12-01 |
+| 🧱 | [Craft](https://www.craft.do/pricing?ref=rarebigdeal) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, turn it into its own page when it grows, and share it as a link. Works offline, and the free plan stays free. | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/mo, US price, local prices vary). **20% OFF** monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. | 2026-12-09 |
 
 
 ### Productivity
@@ -618,14 +620,12 @@ Free & open-source.
 | 🎬 | [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | **Up to 40% OFF** one-time credit packs (Starter 10% / Creator 20% / Studio 30% / Studio Plus 40%). No code needed. Credits never expire. | 2026-12-01 |
 | 🔇 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed | 2026-12-04 |
 | 🦦 | [ScreenOtter](https://screenotter.com/#pricing) | Native Mac app for screen recordings and screenshots. A zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | **40% OFF** one-time licenses with code **BLACKFRIDAY26**: 1 Mac $49 → $29.40, 3 Macs $79 → $47.40. No subscription, applied automatically when you click Buy | 2026-11-30 |
-| 🎥 | [Shot Video](https://shot.video/black-friday) | Turns the laptop and phones you already own into a multi-camera studio. Phones join by QR code with no app to install, you press record once, and AI makes the first edit. | **80% OFF** the first year on annual billing, no code needed: Creator $190 → $39, Pro $390 → $79, Studio $790 → $159. New paying customers only, first 100 buyers. Starts on 2026-11-20 | 2026-12-01 |
 
 
 ### Social
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 💬 | [Textmock](https://textmock.com/pricing) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos. | **50% OFF** Textmock Pro for your first 12 months with code **TEXTMOCKBF26**: ~~$5~~ **$2.50**/month, new subscribers | 2026-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -641,7 +641,6 @@ Free & open-source.
 | ✅ | [Habit Pixel](https://habitpixel.com/get) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF** Lifetime ($29.99 → $19.99), applied automatically in the app. Starts on 2026-11-19 | 2026-12-02 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **23% OFF** yearly ($12.99 → $9.99 USD) No code required. Starts on 2026-11-27 | 2026-12-01 |
 | ✍️ | [Orwellix](https://orwellix.com/lifetime-deal) | AI writing editor: an agent edits your whole document in place and you accept or reject every change, plus grammar, readability and plagiarism checks in the same document. | **Lifetime plan**: one payment of $249 instead of $468/year for Premium, with more AI credits, grammar characters and plagiarism words than Premium every month (no code needed, only 300 deals) | 2026-12-31 |
-| 🧽 | [Sponge](https://sponge.computer/pricing) | Local-first read-later library for Mac and Linux: save articles and PDFs, highlight them and export Markdown. Sponge Plus syncs your whole library to the web and iPhone. | **50% OFF** Sponge Plus for your first 12 months with code **SPONGEBF26**: ~~$5~~ **$2.50**/month on the web, new subscribers | 2026-12-02 |
 
 
 ### Team Project Management Software
@@ -717,7 +716,6 @@ Free & open-source.
 | ✂️ | [SnapDub](https://snapdub.ai/) | Turn long videos into captioned vertical clips for TikTok, Reels and Shorts and post them to your accounts. | **20% OFF** your first month on any plan with code **BLACKFRIDAY20** | 2026-12-04 |
 | 📌 | [BlogToPin](https://blogtopin.com/black-friday) | AI Pinterest marketer that designs, writes and schedules pins for your blog or store. | **40% OFF** any annual plan with code **BF40** (Starter $299 → $179.40/yr) | 2026-12-01 |
 | 🏡 | [PropShift](https://propshift.com/black-friday) | Turns real estate listing links or photos into social videos with script, voiceover, captions and music, and posts them. | **Up to 41% OFF** the first year of annual plans (Starter $348 → $234, Growth $708 → $414); monthly 40% off the first 3 payments. Applied automatically | 2026-11-30 |
-| 📅 | [Atelier Social](https://ateliersocial.io/black-friday) | AI-first social media studio: write a post once and Atelier adapts it for each platform and routes it to every brand, client and location. Publishes to Instagram, Facebook, TikTok, LinkedIn, X, YouTube and Threads. | **83% OFF** the first year, from $158 (renews at $948/yr), no code needed | 2026-12-31 |
 
 
 ### Sales Tools
@@ -792,9 +790,6 @@ Free & open-source.
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📰 | [Sponsonizer](https://sponsonizer.com/) | Sell newsletter sponsorships: sponsors pick a slot, submit their ad and pay with Stripe. | **50% OFF** the first year of Pro Yearly ($99 → $49.50) with code **BF2026** | 2026-11-30 |
-| 🧪 | [PageTest](https://pagetest.ai/black-friday) | AI-written headline, button and copy variations tested on your real visitors, with no code and no developer. Works on any website. | **83% OFF** the first year with code **BF2026**, applied for you: $599 first year (standard $3,588/yr), new customers only, first 100 customers. Starts on 2026-11-20 | 2026-12-01 |
-| 🎙️ | [Webinar Flow](https://webinarflow.studio/black-friday) | Automated webinars that run on a rolling schedule, answer questions as people watch, and alert your phone when a buyer needs you. | **83% OFF** the first year, no code needed: Growth $950 → $159, Scale $2,390 → $399. New customers only, first 100 buyers. Starts on 2026-11-20 | 2026-12-01 |
-| 🧰 | [SaaS Toolkit](https://saastoolkit.ai/black-friday) | AI chat, visitor identification, email follow-up and team alerts in one place, turning anonymous visitors into paying customers. | **83% OFF** the first year with code **BF2026**: Growth $348 → $59, Business $588 → $99. First 100 buyers, one per customer. Starts on 2026-11-20 | 2026-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
